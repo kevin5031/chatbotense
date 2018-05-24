@@ -1,0 +1,38 @@
+{
+  "name": "ensechatbot",
+  "version": "0.0.2",
+  "description": "Chatbot help you with AUT BCIS course information",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevin5031/Chatbot.git"
+  },
+  "keywords": [
+    "slack",
+    "bot",
+    "botkit",
+    "nlp",
+    "ai",
+    "natural",
+    "language",
+    "andrew",
+    "templeton",
+    "vveerrgg"
+  ],
+  "author": " ",
+  "license": " ",
+  "bugs": {
+    "url": "https://github.com/kevin5031/Chatbot/issues"
+  },
+  "homepage": "https://github.com/kevin5031/Chatbot#readme",
+  "dependencies": {
+    "botkit": "0.0.5",
+    "elizabot": "0.0.2",
+    "natural": "^0.2.1",
+    "request": "2.75.0",
+    "sentiment": "2.1.0"
+  }
+}
